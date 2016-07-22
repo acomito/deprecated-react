@@ -12,3 +12,10 @@ A list of deprecated react concepts, methods and more
 
 ### Mixins
 * [Mixins and this.refs are deprecated](https://github.com/mapbox/react-native-mapbox-gl/issues/361)
+
+### getDOMNode()
+* [S.O mention](http://stackoverflow.com/questions/28889826/react-set-focus-on-input-after-render/28891210)
+
+
+
+https://github.com/facebook/react/blob/master/CHANGELOG.md
